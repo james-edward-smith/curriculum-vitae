@@ -5,6 +5,7 @@
 - 🌱 I’m an engineer with an automoitve background but not limited to
 - 💞️ I want to create products that benefit society
 - 📫 How to reach me https://www.linkedin.com/in/james-edward-smith/
+- V1.01
 
 <!---
 james-edward-smith/james-edward-smith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
